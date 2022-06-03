@@ -6,6 +6,7 @@ Passionate to learn and implement the best practices and solutions to problems a
 Good knowledge of Java, SQL(PostgreSQL, MySQL), Hibernate ORM, Spring(Boot, MVC, Data, Security, Test), Maven, JUnit, JavaEE. Basic knowledge of Docker & REST. Built 2 fully fledged web MVC applications on Servlet and Spring Stack.
 
 Check the repos I'm working on right now:
+
 [REALO] https://github.com/h1alexbel/realo
 
 Interested in Cloud, IoT, Banking software development.
