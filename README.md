@@ -5,6 +5,9 @@ Passionate to learn and implement the best practices and solutions to problems a
 
 Good knowledge of Java, SQL(PostgreSQL, MySQL), Hibernate ORM, Spring(Boot, MVC, Data, Security, Test), Maven, JUnit, JavaEE. Basic knowledge of Docker & REST. Built 2 fully fledged web MVC applications on Servlet and Spring Stack.
 
+Check the repos I'm working on right now:
+[REALO] https://github.com/h1alexbel/realo
+
 Interested in Cloud, IoT, Banking software development.
 -Initiative, responsible person, good communication skills.
 
@@ -13,4 +16,3 @@ Traveling, investigation of Financial Markets
 
 ## Contact me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aliaksei-bialiauski-49b2a821a/)
-
