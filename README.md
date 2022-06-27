@@ -5,6 +5,7 @@ Passionate to learn and implement the best practices and solutions to problems a
 
 Check the repos I'm working on right now:
 [REALO](https://github.com/h1alexbel/realo)
+[JTAX](https://github.com/h1alexbel/jtax)
 
 Interested in Cloud, IoT, Banking software development.
 -Initiative, responsible person, good communication skills.
