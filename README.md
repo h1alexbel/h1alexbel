@@ -14,5 +14,5 @@ Check the repos I'm working on right now:
 
 
 [<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abialiauski.dev@gmail.com)
-[<img align="left" alt="h1alexbel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h1alexbel)
+[<img align="left" alt="h1alexbel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliaksei-bialiauski-49b2a821a/)
 <br/>
