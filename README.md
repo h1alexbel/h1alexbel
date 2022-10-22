@@ -10,7 +10,7 @@
 Check the repos I'm working on right now:
 [REALO](https://github.com/h1alexbel/realo),
  [Tickets Sync](https://github.com/h1alexbel/ticketssync),
- [Celnet](https://github.com/h1alexbel/celnet),
+ [Celnet](https://github.com/h1alexbel/celnet).
 
 ### Contact me:
 
