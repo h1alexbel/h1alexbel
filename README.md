@@ -9,13 +9,6 @@ Read my [blog](https://h1alexbel.github.io)
 [<img align="left" alt="h1alexbel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h1alexbel)
 </br>
 
-Hands on experience with:
-- Backend Java Development on Enterprise-level projects;
-- Integration(Change Data Capture) Development {ETL, Apache Kafka, Kafka Streams};
-- NoSQL data modeling {Cassandra, DynamoDB};
-- AWS;
-- DevOps {Kubernetes, Terraform/CloudFormation};
-
 [More About me](https://h1alexbel.github.io/about-me.html)
 
 Check the repos I'm working on right now:
