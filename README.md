@@ -12,6 +12,5 @@ Read my [blog](https://h1alexbel.github.io)
 [More About me](https://h1alexbel.github.io/about-me.html)
 
 Check the repos I'm working on right now:
- [Tickets Sync](https://github.com/ticketsyncs/clockfarm),
- [Dothem](https://github.com/h1alexbel/dothem),
- [Alerter](https://github.com/h1alexbel/alerter-mail).
+ [Ticketsyncs](https://github.com/ticketsyncs/clockfarm)
+(I need your help!)
