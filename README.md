@@ -12,5 +12,8 @@ Read my [blog](https://h1alexbel.github.io)
 [More About me](https://h1alexbel.github.io/about-me.html)
 
 Check the repos I'm working on right now:
- [Ticketsyncs](https://github.com/ticketsyncs/clockfarm)
+<br>
+ [EO](https://github.com/objectionary/eo)
+<br>
+ [eo-cqrs](https://github.com/eo-cqrs)
 (I need your help!)
