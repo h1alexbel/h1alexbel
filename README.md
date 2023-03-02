@@ -7,10 +7,8 @@ Read my [blog](https://h1alexbel.github.io)
 [<img align="left" alt="h1alexbel | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/h1alexbel)
 [<img align="left" alt="h1alexbel | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abialiauski.dev@gmail.com)
 [<img align="left" alt="h1alexbel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h1alexbel)
-</br>
-
-[More About me](https://h1alexbel.github.io/about-me.html)
-
+<br>
+<br>
 Check the repos I'm working on right now:
 <br>
  [EO](https://github.com/objectionary/eo)
