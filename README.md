@@ -11,7 +11,7 @@ Read my [blog](https://h1alexbel.github.io)
 <br>
 Check the repos I'm working on right now:
 <br>
- [EO](https://github.com/objectionary/eo)
 <br>
  [eo-cqrs](https://github.com/eo-cqrs)
+<br>
 (I need your help!)
