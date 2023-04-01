@@ -12,6 +12,6 @@ Read my [blog](https://h1alexbel.github.io)
 Check the repos I'm working on right now:
 <br>
 <br>
- [eo-cqrs](https://github.com/eo-cqrs)
+ [EO-CQRS](https://github.com/eo-cqrs)
 <br>
 (I need your help!)
