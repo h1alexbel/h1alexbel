@@ -8,10 +8,7 @@ Read my [blog](https://h1alexbel.github.io)
 [<img align="left" alt="h1alexbel | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abialiauski.dev@gmail.com)
 [<img align="left" alt="h1alexbel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h1alexbel)
 <br>
-<br>
-Check the repos I'm working on right now:
-<br>
-<br>
- [EO-CQRS](https://github.com/eo-cqrs)
-<br>
-(I need your help!)
+
+Check out the repos I'm working on right now(I need your help, please contribute!):
+  - [EO-CQRS](https://github.com/eo-cqrs/)
+  - [Blamer-io](https://github.com/blamer-io/)
