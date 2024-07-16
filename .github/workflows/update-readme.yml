@@ -24,7 +24,8 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */1 * * *"
+# run it on 6:00 AM on Monday
+    - cron: "0 6 * * 1"
 permissions: write-all
 jobs:
   markscribe:

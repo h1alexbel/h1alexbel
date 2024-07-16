@@ -1,7 +1,7 @@
 ### Welcome! I'm Aliaksei
 
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
-{{range recentContributions 5}}
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
