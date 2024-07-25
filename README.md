@@ -2,11 +2,9 @@
 
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
 
-- [h1alexbel/sr-detection](https://github.com/h1alexbel/sr-detection) - Identifying GitHub &#34;sample repositories&#34; (SR), that mostly contain educational or demonstration materials supposed to be copied instead of reused as a dependency
-- [volodya-lombrozo/jtcop](https://github.com/volodya-lombrozo/jtcop) - Maven Plugin for checking tests in Java projects
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
-- [h1alexbel/pfilter](https://github.com/h1alexbel/pfilter) - Command-line tool that filters out a CSV dataset using lower and upper percentiles
 - [h1alexbel/h1alexbel.github.io](https://github.com/h1alexbel/h1alexbel.github.io) - My blog about Programming
+- [volodya-lombrozo/jtcop](https://github.com/volodya-lombrozo/jtcop) - Maven Plugin for checking tests in Java projects
 
 #### Latest releases I've contributed to
 
