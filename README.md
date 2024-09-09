@@ -3,8 +3,8 @@
 #### Check out some of what I'm working on right now (I need your help, please contribute!):
 
 - [h1alexbel/ghiqc](https://github.com/h1alexbel/ghiqc) - Command-line tool for checking the quality of your bug reports in GitHub Issues, empowered with LLM
-- [h1alexbel/sr-detection](https://github.com/h1alexbel/sr-detection) - Identifying GitHub &#34;sample repositories&#34; (SR), that mostly contain educational or demonstration materials supposed to be copied instead of reused as a dependency
-- [objectionary/jeo-maven-plugin](https://github.com/objectionary/jeo-maven-plugin) - This Maven plugin converts Java Bytecode binary files to EOLANG programs that use the &#34;opcode&#34; atom
+- [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
+- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 
 #### Latest releases I've contributed to
 
