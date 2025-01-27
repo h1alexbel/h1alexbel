@@ -2,17 +2,9 @@
 
 #### Check out some of what I'm working on right now (I need your help, please contribute!):
 
-- [h1alexbel/ghiqc](https://github.com/h1alexbel/ghiqc) - Command-line tool for checking the quality of your bug reports in GitHub Issues, empowered with LLM
-- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
-- [h1alexbel/sr-detection](https://github.com/h1alexbel/sr-detection) - Identifying GitHub &#34;sample repositories&#34; (SR), that mostly contain educational or demonstration materials supposed to be copied instead of reused as a dependency
-
-#### Latest releases I've contributed to
-
-- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) ([0.0.10](https://github.com/h1alexbel/fakehub/releases/tag/0.0.10)) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
-- [h1alexbel/sr-detection](https://github.com/h1alexbel/sr-detection) ([0.0.1](https://github.com/h1alexbel/sr-detection/releases/tag/0.0.1)) - Identifying GitHub &#34;sample repositories&#34; (SR), that mostly contain educational or demonstration materials supposed to be copied instead of reused as a dependency
-- [h1alexbel/fsl](https://github.com/h1alexbel/fsl) ([0.0.4](https://github.com/h1alexbel/fsl/releases/tag/0.0.4)) - FakeHub State Language. DSL for managing state in fakehub
-- [h1alexbel/ghminer](https://github.com/h1alexbel/ghminer) ([0.0.7](https://github.com/h1alexbel/ghminer/releases/tag/0.0.7)) - Command-line GitHub repository miner that aggregates dataset for your researches
-- [yegor256/takes](https://github.com/yegor256/takes) ([1.24.5](https://github.com/yegor256/takes/releases/tag/1.24.5)) - True Object-Oriented Java Web Framework without NULLs, Static Methods, Annotations, and Mutable Objects
+- [sr-detection](https://github.com/h1alexbel/sr-detection)
+- [eo-dom](https://github.com/h1alexbel/eo-dom)
+- [EO Linter](https://github.com/objectionary/lints)
 
 #### My recent blog posts
 
@@ -23,6 +15,6 @@
 #### Contact me
 
 - Blog: [www.h1alexbel.xyz](https://www.h1alexbel.xyz)
-- Email: [aliaksei.bialiauski@hey.com](mailto:aliaksei.bialiauski@hey.com)
+- Email: [h1alexbelx@gmail.com](mailto:h1alexbelx@gmail.com)
 - Telegram: [t.me/h1alexbel](https://t.me/h1alexbel)
 - Linkedin: [/in/h1alexbel](https://www.linkedin.com/in/h1alexbel)
