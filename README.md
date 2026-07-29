@@ -1,10 +1,8 @@
-### Welcome! I'm Aliaksei
+### Hi! I'm Aliaksei
 
-#### Check out some of what I'm working on right now (I need your help, please contribute!):
+Currently, I'm focused on developing EOLANG, an experimental pure Object-Oriented language and it's ecosystem, including: [lints](https://github.com/objectionary/lints/), [sodg-maven-plugin](https://github.com/objectionary/sodg-maven-plugin/).
 
-- [sr-detection](https://github.com/h1alexbel/sr-detection)
-- [eo-dom](https://github.com/h1alexbel/eo-dom)
-- [EO Linter](https://github.com/objectionary/lints)
+Also, since 2024 I've been the organizer and a jury member of the annual open source project festival called [KaiCode](https://www.kaicode.org/). Feel free to submit your project next year.
 
 #### My recent blog posts
 
